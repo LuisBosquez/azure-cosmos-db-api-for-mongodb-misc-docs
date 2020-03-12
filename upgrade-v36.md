@@ -1,10 +1,12 @@
-# Upgrade to MongoDB API engine version 3.6
+# Upgrade to Azure Cosmos DB's API for MongoDB engine version 3.6
 
-## Your database account, {GlobalDatabaseAccountName} qualifies to be updated to the latest version of Azure Cosmos DB's API for MongoDB.
+## Your database account qualifies to be updated to the latest version of Azure Cosmos DB's API for MongoDB.
 
 Upgrading to the latest version of the service will provide the most up to date functionality, as well as enhancements in performance, stability, and the latest fixes.
 
 The upgrade process will not provide any service interruptions or downtime. It will also not require any data or index migrations. As soon as you start the process, your account will be queued to proceed with the upgrade. You will be notified when your account has finished upgrading.
+
+Check for the updated functionality in this version: [Wire protocol support (v3.6)](https://docs.microsoft.com/azure/cosmos-db/mongodb-feature-support-36)
 
 1. Benefits of upgrading to version 3.6
 
